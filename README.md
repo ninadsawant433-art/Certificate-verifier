@@ -174,7 +174,7 @@ Generate Verification Report
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/Home.png)
 
 ---
 
@@ -186,7 +186,7 @@ Generate Verification Report
 
 ### ✅ Verification Result
 
-![Result](screenshots/result.png)
+![Result](Screenshots/Verification_Result.png)
 
 
 ---
